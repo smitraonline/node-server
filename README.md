@@ -17,7 +17,7 @@ This is a Basic nodejs Server application.
 
 2. Run in container
 
-> `docker run -p 49160:8080 -d node-server`
+> `docker run -p 8080:8080 -d node-server`
 
 ## To Test the application
 
